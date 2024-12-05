@@ -7,7 +7,7 @@
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
             "user-agent": "UnityPlayer/2022.3.20f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.20f1",
+            "x-unity-version": "2022.3.20f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -16,7 +16,7 @@
         "eventOrigin": "undefined",
         "eventType": "cube_sent",
         "delay": 35,
-        "retry_delay": 20,
+        "retry_delay": 20
     },
     "61308365-9d16-4040-8bb0-2f4a4c69074c": {
         "name": "Twerk Race",
@@ -26,7 +26,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2021.3.15f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-            "x-unity-version": "2021.3.15f1",
+            "x-unity-version": "2021.3.15f1"
         },
         "clientOrigin": "android",
         "clientIdType": "ts-19digits",
@@ -35,7 +35,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "b2436c89-e0aa-4aed-8046-9b0515e1c46b": {
         "name": "Zoopolis",
@@ -45,7 +45,7 @@
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
             "user-agent": "UnityPlayer/2022.3.22f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.22f1",
+            "x-unity-version": "2022.3.22f1"
         },
         "clientOrigin": "android",
         "clientIdType": "32strLower",
@@ -54,7 +54,7 @@
         "eventOrigin": "undefined",
         "eventType": "ZoopolisEvent",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "c4480ac7-e178-4973-8061-9ed5b2e17954": {
         "name": "Train Miner",
@@ -64,7 +64,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.20f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.20f1",
+            "x-unity-version": "2022.3.20f1"
         },
         "clientOrigin": "android",
         "clientIdType": "32strLower",
@@ -73,7 +73,7 @@
         "eventOrigin": "undefined",
         "eventType": "hitStatue",
         "delay": 60,
-        "retry_delay": 120,
+        "retry_delay": 120
     },
     "e68b39d2-4880-4a31-b3aa-0393e7df10c7": {
         "newApi": true,
@@ -84,7 +84,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2020.3.48f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-            "x-unity-version": "2020.3.48f1",
+            "x-unity-version": "2020.3.48f1"
         },
         "clientOrigin": "deviceid",
         "clientIdType": "7digits",
@@ -93,7 +93,7 @@
         "eventOrigin": "undefined",
         "eventType": "gt_progress",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "04ebd6de-69b7-43d1-9c4b-04a6ca3305af": {
         "newApi": true,
@@ -102,7 +102,7 @@
         "promoId": "04ebd6de-69b7-43d1-9c4b-04a6ca3305af",
         "headers": {
             "accept": null,
-            "content-type": "application/json",
+            "content-type": "application/json"
         },
         "clientOrigin": "android",
         "clientIdType": "16strUpper",
@@ -111,7 +111,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "2aaf5aee-2cbc-47ec-8a3f-0962cc14bc71": {
         "newApi": true,
@@ -122,7 +122,7 @@
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
             "user-agent": "UnityPlayer/2021.3.39f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2021.3.39f1",
+            "x-unity-version": "2021.3.39f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -131,7 +131,7 @@
         "eventOrigin": "undefined",
         "eventType": "test",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "d2378baf-d617-417a-9d99-d685824335f0": {
         "newApi": true,
@@ -142,7 +142,7 @@
             "accept": "application/json",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.41f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.41f1",
+            "x-unity-version": "2022.3.41f1"
         },
         "clientOrigin": "android",
         "clientIdType": "32strLower",
@@ -151,7 +151,7 @@
         "eventOrigin": "undefined",
         "eventType": "undefined",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "ef319a80-949a-492e-8ee0-424fb5fc20a6": {
         "name": "Mow and Trim",
@@ -161,7 +161,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2021.3.17f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-            "x-unity-version": "2021.3.17f1",
+            "x-unity-version": "2021.3.17f1"
         },
         "clientOrigin": "android",
         "clientIdType": "ts-19digits",
@@ -170,7 +170,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "eb518c4b-e448-4065-9d33-06f3039f0fcb": {
         "name": "Infected Frontier",
@@ -180,7 +180,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.21f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.21f1",
+            "x-unity-version": "2022.3.21f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -189,7 +189,7 @@
         "eventOrigin": "undefined",
         "eventType": "biker",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "4bf4966c-4d22-439b-8ff2-dc5ebca1a600": {
         "newApi": true,
@@ -200,7 +200,7 @@
             "accept": "application/json",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.38f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.38f1",
+            "x-unity-version": "2022.3.38f1"
         },
         "clientOrigin": "android",
         "clientIdType": "32strLower",
@@ -209,7 +209,7 @@
         "eventOrigin": "undefined",
         "eventType": "undefined",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "112887b0-a8af-4eb2-ac63-d82df78283d9": {
         "newApi": true,
@@ -220,7 +220,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.27f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.27f1",
+            "x-unity-version": "2022.3.27f1"
         },
         "clientOrigin": "deviceid",
         "clientIdType": "uuid",
@@ -229,7 +229,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 180,
-        "retry_delay": 300,
+        "retry_delay": 300
     },
     "d02fc404-8985-4305-87d8-32bd4e66bb16": {
         "newApi": true,
@@ -240,7 +240,7 @@
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
             "user-agent": "UnityPlayer/2022.3.46f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.46f1",
+            "x-unity-version": "2022.3.46f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -249,7 +249,7 @@
         "eventOrigin": "undefined",
         "eventType": "HamsterGathred",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "4bdc17da-2601-449b-948e-f8c7bd376553": {
         "newApi": true,
@@ -260,7 +260,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.30f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.30f1",
+            "x-unity-version": "2022.3.30f1"
         },
         "clientOrigin": "android",
         "clientIdType": "ts-19digits",
@@ -269,7 +269,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "bc72d3b9-8e91-4884-9c33-f72482f0db37": {
         "newApi": true,
@@ -280,7 +280,7 @@
             "accept": "application/json",
             "content-type": "application/json; charset=utf-8",
             "user-agent": "UnityPlayer/2021.3.15f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
-            "x-unity-version": "2021.3.15f1",
+            "x-unity-version": "2021.3.15f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -289,7 +289,7 @@
         "eventOrigin": "undefined",
         "eventType": "test",
         "delay": 60,
-        "retry_delay": 120,
+        "retry_delay": 120
     },
     "daab8f83-8ea2-4ad0-8dd5-d33363129640": {
         "newApi": true,
@@ -300,7 +300,7 @@
             "accept": "*/*",
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.46f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.46f1",
+            "x-unity-version": "2022.3.46f1"
         },
         "clientOrigin": "android",
         "clientIdType": "32strLower",
@@ -309,7 +309,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "dc128d28-c45b-411c-98ff-ac7726fbaea4": {
         "newApi": true,
@@ -324,19 +324,19 @@
             "sec-fetch-dest": "empty",
             "sec-fetch-mode": "cors",
             "sec-fetch-site": "cross-site",
-            "x-requested-with": "games.playpack.mergeaway",
+            "x-requested-with": "games.playpack.mergeaway"
         },
         "optionsHeaders": {
             "accept": "*/*",
             "access-control-request-headers": "content-type",
-            "access-control-request-method": "POST",
+            "access-control-request-method": "POST"
         },
         "postHeaders": {
             "accept": "application/json, text/plain, */*",
             "content-type": "application/json",
-            "sec-ch-ua": '"Android WebView";v="129", "Not=A?Brand";v="8", "Chromium";v="129"',
+            "sec-ch-ua": "\"Android WebView\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
             "sec-ch-ua-mobile": "?1",
-            "sec-ch-ua-platform": "Android",
+            "sec-ch-ua-platform": "\"Android\""
         },
         "clientOrigin": "android",
         "clientIdType": "ts-19digits",
@@ -345,7 +345,7 @@
         "eventOrigin": "undefined",
         "eventType": "spend-energy",
         "delay": 35,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "ed526e8c-e6c8-40fd-b72a-9e78ff6a2054": {
         "newApi": true,
@@ -364,7 +364,7 @@
             "sec-fetch-site": null,
             "pragma": null,
             "cache-control": null,
-            "user-agent": "@@@SKIP_HEADER@@@",
+            "user-agent": "@@@SKIP_HEADER@@@"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -373,7 +373,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 60,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "c8e017e2-8817-4d02-bce6-b951e74bb18f": {
         "newApi": true,
@@ -385,7 +385,7 @@
             "connection": null,
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.30f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.30f1",
+            "x-unity-version": "2022.3.30f1"
         },
         "clientOrigin": "android",
         "clientIdType": "ts-19digits",
@@ -394,7 +394,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 120,
-        "retry_delay": 60,
+        "retry_delay": 60
     },
     "53bf823a-948c-48c4-8bd5-9c21903416df": {
         "newApi": true,
@@ -406,7 +406,7 @@
             "connection": null,
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.40f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2022.3.40f1",
+            "x-unity-version": "2022.3.40f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -415,7 +415,7 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 120,
-        "retry_delay": 180,
+        "retry_delay": 180
     },
     "13f7bd7c-b4b3-41f1-9905-a7db2e814bff": {
         "newApi": true,
@@ -427,7 +427,7 @@
             "connection": null,
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2021.3.45f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)",
-            "x-unity-version": "2021.3.45f1",
+            "x-unity-version": "2021.3.45f1"
         },
         "clientOrigin": "android",
         "clientIdType": "uuid",
@@ -436,7 +436,7 @@
         "eventOrigin": "undefined",
         "eventType": "HamsterCombat",
         "delay": 120,
-        "retry_delay": 180,
+        "retry_delay": 180
     },
     "e355f8c7-3764-49cd-a298-530d666435c3": {
         "newApi": true,
@@ -448,7 +448,7 @@
             "connection": null,
             "content-type": "application/json",
             "user-agent": "UnityPlayer/2022.3.53f1 (UnityWebRequest/1.0, libcurl/8.10.1-DEV)",
-            "x-unity-version": "2022.3.53f1",
+            "x-unity-version": "2022.3.53f1"
         },
         "clientOrigin": "android",
         "clientIdType": "28str",
@@ -457,6 +457,6 @@
         "eventOrigin": "undefined",
         "eventType": null,
         "delay": 120,
-        "retry_delay": 180,
-    },
+        "retry_delay": 180
+    }
 }
